@@ -29,3 +29,7 @@
 ## Live Project Live
 
 https://c-lp-digital-calligraphy.onrender.com/
+
+## Credits:
+
+  > 👉 **©️ Credits** goes to the **owner** of `all images & fonts`. _Thank You_ for all the _**Image & Font Creaters**_ to `done this amazing project` 🤝...
