@@ -26,6 +26,10 @@
 
   - ``streamlit run app.py``
 
+## Functionality Spotlight
+
+  ![Text to Handwritten](https://github.com/C-Logesh-Perumal-29/C_LP_Digital-Calligraphy/assets/125385633/58e2f27a-5c1d-4503-891e-cb93ebcb03bc)
+
 ## Live Project Live
 
 https://c-lp-digital-calligraphy.onrender.com/
