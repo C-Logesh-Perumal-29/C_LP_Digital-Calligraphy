@@ -62,7 +62,8 @@ def main():
     """
     st.markdown(hide_menu_style , unsafe_allow_html=True)
 
-    st.sidebar.image("Logo.jpg")
+    #st.sidebar.image("Logo.jpg")
+    st.sidebar.image("Student.png")
     
     # Get user input
     user_text = st.sidebar.text_area("Enter the text you want to convert to handwritten style:")
