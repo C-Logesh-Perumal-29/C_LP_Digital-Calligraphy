@@ -62,7 +62,6 @@ def main():
     """
     st.markdown(hide_menu_style , unsafe_allow_html=True)
 
-    #st.sidebar.image("Logo.jpg")
     st.sidebar.image("Student.png")
     
     # Get user input
