@@ -28,7 +28,7 @@
 
 ## Functionality Spotlight
 
-  ![Text to Handwritten](https://github.com/C-Logesh-Perumal-29/C_LP_Digital-Calligraphy/assets/125385633/58e2f27a-5c1d-4503-891e-cb93ebcb03bc)
+  ![Text to Handwritten](https://github.com/C-Logesh-Perumal-29/C_LP_Digital-Calligraphy/assets/125385633/69d5d090-8e4d-4c18-97a2-79bf483af9e8)
 
 ## Live Project Live
 
